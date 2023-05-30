@@ -14,6 +14,7 @@
 		A62D0A342A1626170065EFE4 /* NotificationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A62D0A332A1626170065EFE4 /* NotificationTests.swift */; };
 		A62D0A3E2A1626170065EFE4 /* NotificationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A62D0A3D2A1626170065EFE4 /* NotificationUITests.swift */; };
 		A62D0A402A1626170065EFE4 /* NotificationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A62D0A3F2A1626170065EFE4 /* NotificationUITestsLaunchTests.swift */; };
+		A62D0A4D2A1627A30065EFE4 /* barbie.png in Resources */ = {isa = PBXBuildFile; fileRef = A62D0A4C2A1627A30065EFE4 /* barbie.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		A62D0A392A1626170065EFE4 /* NotificationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotificationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A62D0A3D2A1626170065EFE4 /* NotificationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationUITests.swift; sourceTree = "<group>"; };
 		A62D0A3F2A1626170065EFE4 /* NotificationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A62D0A4C2A1627A30065EFE4 /* barbie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barbie.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		A62D0A152A1626160065EFE4 = {
 			isa = PBXGroup;
 			children = (
+				A62D0A4C2A1627A30065EFE4 /* barbie.png */,
 				A62D0A202A1626160065EFE4 /* Notification */,
 				A62D0A322A1626170065EFE4 /* NotificationTests */,
 				A62D0A3C2A1626170065EFE4 /* NotificationUITests */,
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A62D0A292A1626170065EFE4 /* Preview Assets.xcassets in Resources */,
+				A62D0A4D2A1627A30065EFE4 /* barbie.png in Resources */,
 				A62D0A262A1626170065EFE4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
